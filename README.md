@@ -10,7 +10,7 @@ Figures Importantes:
 - Lightspeed Commerce Inc.
 
 ## Quoi ?
-Le "Black Hole Experience" ou "BHX" est une expérience qui reset 
+Le "Black Hole Experience" ou "BHX" est une expérience qui rafraichi la nature. 
 ## Où ?
 
 ## Quand ?
