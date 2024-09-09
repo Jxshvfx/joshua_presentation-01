@@ -36,9 +36,10 @@ Design Audio:
 - Lightspeed Commerce Inc.
 
 ## Quand ?
-Date de Création: 
+### Date de Création: 
 2020-2024 (Aucune Date Spécifié donné)
 
+### Première
 Pour la première fois dévoilé à C2 Montréal (21 Mai au 23 Mai)
 ![premiereC2](assets/images/c2_mtl_premiere.jpg)
 
