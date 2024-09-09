@@ -62,7 +62,7 @@ L'expérience ce passe dans un petit espace, cela inclue un petit corridor avec 
 Vidéo: https://youtu.be/EXMW9np8gYE
 
 ### Objectifs de l'oeuvre :
-Le "Black Hole Experience" ou "BHX" est une experience qui interconnecte les utilisateurs avec la nature/ le cosmos. Comme mentionné précédemment, il est plutot médiatique, et laisse l'utilisateur pensé tout en étant accompagné par les sons du cosmos et le visuel lui étant montré. L'artiste décrit la raison pour avoir utilisé un trou noir comme sujet en expliquant: 
+Le "Black Hole Experience" ou "BHX" est une experience qui interconnecte les utilisateurs avec la nature/ le cosmos. Comme mentionné précédemment, il est plutot médiatique, et laisse l'utilisateur pensé tout en étant accompagné par les sons du cosmos et le visuel lui étant montré. Le site Internet décrit la raison pour avoir utilisé un trou noir comme sujet en expliquant: 
 > "Les trous noirs sont l'un des plus grands mystères scientifiques de notre univers, et peuvent être un fort symbole de la relation que l'humanité entretien avec l'inconnu, mais ils peuvent aussi nous faire apprendre sur nous-mêmes, et comment on peut apporté des changements positifs dans le monde."
 
 ![bhx_02](assets/images/bhx_img_02.jpg)
