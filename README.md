@@ -14,7 +14,7 @@ Date de Création:
 2020-2024 (Aucune Date Spécifié donné)
 
 Pour la première fois dévoilé à C2 Montréal (21 Mai au 23 Mai)
-![premiereC2](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/c2_mtl_premiere.jpg)
+![premiereC2](assets/images/c2_mtl_premiere.jpg)
 
 ## Où ?
 Lieu de présentation initiale:
@@ -30,14 +30,14 @@ MUTEK FESTIVAL (Aout 20-25 2024)
 ## Quoi ?
 Description Générale :
 L'expérience ce passe dans un petit espace, cela inclue un petit corridor avec des lumieres qui s'ouvre lorsque on passe à travers et à la fin de ce corridor, il y a une petite chambre avec un projecteur et un trou, où l'experience commence. Accompagné d'un visuel projeté et d'une trame sonore, l'expérience se catégorise comme médiatique, émotionnel et conceptuel.
-![installation](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/experience-installation.jpg)
+![installation](assets/images/experience-installation.jpg)
 
 Vidéo: https://youtu.be/EXMW9np8gYE
 
 Objectifs de l'oeuvre :
 Le "Black Hole Experience" ou "BHX" est une experience qui interconnecte les utilisateurs avec la nature/ le cosmos. Comme mentionné précédemment, il est plutot médiatique, et laisse l'utilisateur pensé tout en étant accompagné par les sons du cosmos et le visuel lui étant montré. L'artiste décrit la raison pour avoir utilise un trou noir comme sujet en expliquant: "Les trous noirs sont l'un des plus grands mysteres scientifique de notre univers, et peuvent etre un fort symbole de la relation que l'humanité entretien avec l'inconnu, mais ils peuvent aussi nous faire apprendre sur nous-memes, et comment on peut apporté des changements positifs dans le monde."
 
-![bhx_02](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/bhx_img_02.jpg)
+![bhx_02](assets/images/bhx_img_02.jpg)
 
 Public Cible :
 Pour tout le monde, mais majoritairement visé pour les personnes étant capables de penser et de faire de la réflexion (Par exemple: pas pour les bébés). Donc une certaine maturité doit être acquise. 
@@ -45,7 +45,7 @@ Pour tout le monde, mais majoritairement visé pour les personnes étant capable
 Aspects Techniques :
 Donc certaines techniques utilisées dans l’œuvre peuvent inclure un projecteur (pour le visuel), l’utilisation de la spécialisation auditive (sons du cosmos), et d’une technologie permettant de détecter les personnes et de pouvoir illuminer les lumières les plus proches (technologie qui ressemblent à celle de la Kinect).
 
-![bhx_03](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/blackHoleX_image-01.jpg)
+![bhx_03](assets/images/blackHoleX_image-01.jpg)
 
 Processus de création: 
 Il n'y a pas tant d'information, cependant nous savons un peu les roles, Kelly Nunes étant l'artiste et le créateur du concept à été assisté de Dax Silva pour crée l'oeuvre (au niveau de la finance, etc.) Ensuite, il y possiblement eu différentes étapes, comme la création du visuel, de la trame sonore, la production du corridor, la programmation des lumières etc. Toutes des différentes étapes essentiel mais peu documenter, possiblement à cause d'une raison de confidentialité, etc.
@@ -56,7 +56,7 @@ Il n'y a pas tant d'information, cependant nous savons un peu les roles, Kelly N
 Composante Centrale :
 La composante Centrale serait en effet la chambre et tout ce qui est inclut , car c’est la ou la vraie expérience ce passe. En effet, le mélange d’une pièce isolée, d’un visuel, d’une trame sonore et d’un trou dans le mur qui caractérise le trou noir est vraiment ce qui rend cette expérience le « BHX ».
 
-![bhx_04](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/bhx_03.jpg)
+![bhx_04](assets/images/bhx_03.jpg)
 
 Fonctionnement :
 C’est l’endroit et les outils qui mènent à pouvoir penser et s’immerger dans l’univers du « BHX ». Et le manquement d’un seul élément pourrait brisé cette expérience, et ne pas délivrer le message voulant être transmis. Chaque élément jouent un role,
