@@ -21,11 +21,11 @@ Lieu de présentation initiale:
 Le premier endroit où le BHX a été montré est à Montréal lors de la conférence C2. C2 est une conférence annuelle qui se tient depuis 2012.
 
 Dates Importantes:
-PRIDE TORONTO (Juin 28-30 2024)
-CHICAGO (Juillet 19-21 2024)
-TIMES SQUARE NYC (Aout 2-4 2024)
-BOOTS & HEARTS FESTIVAL (Aout 08-11 2024)
-MUTEK FESTIVAL (Aout 20-25 2024)
+- PRIDE TORONTO (Juin 28-30 2024)
+- CHICAGO (Juillet 19-21 2024)
+- TIMES SQUARE NYC (Aout 2-4 2024)
+- BOOTS & HEARTS FESTIVAL (Aout 08-11 2024)
+- MUTEK FESTIVAL (Aout 20-25 2024)
 
 ## Quoi ?
 Description Générale :
