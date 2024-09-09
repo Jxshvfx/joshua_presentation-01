@@ -47,6 +47,9 @@ Donc certaines techniques utilisées dans l’œuvre peuvent inclure un projecte
 
 ![bhx_03](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/blackHoleX_image-01.jpg)
 
+Processus de création: 
+Il n'y a pas tant d'information, cependant nous savons un peu les roles, Kelly Nunes étant l'artiste et le créateur du concept à été assisté de Dax Silva pour crée l'oeuvre (au niveau de la finance, etc.) Ensuite, il y possiblement eu différentes étapes, comme la création du visuel, de la trame sonore, la production du corridor, la programmation des lumières etc. Toutes des différentes étapes essentiel mais peu documenter, possiblement à cause d'une raison de confidentialité, etc.
+
 
 
 ## Comment ?
