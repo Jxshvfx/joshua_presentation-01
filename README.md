@@ -6,6 +6,7 @@ Figures Importantes:
  - Dax Dasilva (Entrepreneur, producteur du projet)
 
 Équipe de production:
+
 Conception et Réalisateur:
 - Kelly Nunes
 
