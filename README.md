@@ -56,7 +56,7 @@ Le premier endroit où le BHX a été montré est à Montréal lors de la confé
 
 ## Quoi ?
 ### Description Générale :
-L'expérience ce passe dans un petit espace, cela inclue un petit corridor avec des lumières qui s'ouvre lorsque on passe à travers et à la fin de ce corridor, il y a une petite chambre avec un projecteur et un trou, où l'expérience commence. Accompagné d'un visuel projeté en 3D et d'une trame sonore, l'expérience se catégorise comme médiatique, émotionnel et conceptuel.
+L'expérience ce passe dans un petit espace, cela inclue un petit corridor avec des lumières qui s'ouvre lorsque on passe à travers et à la fin de ce corridor, il y a une petite chambre avec des projecteurs 3D et un trou, où l'expérience commence. Accompagné d'un visuel projeté et d'une trame sonore, l'expérience se catégorise comme médiatique, émotionnel et conceptuel.
 ![installation](assets/images/experience-installation.jpg)
 
 Vidéo: https://youtu.be/EXMW9np8gYE
