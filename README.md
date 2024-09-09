@@ -3,7 +3,7 @@
 ## Qui ?
 Figures Importantes: 
  - Kelly Nunes (Artise Multi-Disciplinaire)
- - Dax Dasilva (Entrepreneurs)
+ - Dax Dasilva (Entrepreneur, producteur du projet)
 
 Équipe de production/ Compagnies Impliqué à la Création:
 - Age Of Union
@@ -29,13 +29,13 @@ MUTEK FESTIVAL (Aout 20-25 2024)
 
 ## Quoi ?
 Description Générale :
-L'expérience ce passe dans un petit espace, cela inclue un petit corridor avec des lumieres qui s'ouvre lorsque on passe à travers et à la fin de ce corridor, il y a une petite chambre avec un projecteur et un trou, où l'experience commence. Accompagné d'un visuel projeté et d'une trame sonore, l'expérience se catégorise comme médiatique, émotionnel et conceptuel.
+L'expérience ce passe dans un petit espace, cela inclue un petit corridor avec des lumières qui s'ouvre lorsque on passe à travers et à la fin de ce corridor, il y a une petite chambre avec un projecteur et un trou, où l'expérience commence. Accompagné d'un visuel projeté et d'une trame sonore, l'expérience se catégorise comme médiatique, émotionnel et conceptuel.
 ![installation](assets/images/experience-installation.jpg)
 
 Vidéo: https://youtu.be/EXMW9np8gYE
 
 Objectifs de l'oeuvre :
-Le "Black Hole Experience" ou "BHX" est une experience qui interconnecte les utilisateurs avec la nature/ le cosmos. Comme mentionné précédemment, il est plutot médiatique, et laisse l'utilisateur pensé tout en étant accompagné par les sons du cosmos et le visuel lui étant montré. L'artiste décrit la raison pour avoir utilise un trou noir comme sujet en expliquant: "Les trous noirs sont l'un des plus grands mysteres scientifique de notre univers, et peuvent etre un fort symbole de la relation que l'humanité entretien avec l'inconnu, mais ils peuvent aussi nous faire apprendre sur nous-memes, et comment on peut apporté des changements positifs dans le monde."
+Le "Black Hole Experience" ou "BHX" est une experience qui interconnecte les utilisateurs avec la nature/ le cosmos. Comme mentionné précédemment, il est plutot médiatique, et laisse l'utilisateur pensé tout en étant accompagné par les sons du cosmos et le visuel lui étant montré. L'artiste décrit la raison pour avoir utilisé un trou noir comme sujet en expliquant: "Les trous noirs sont l'un des plus grands mystères scientifiques de notre univers, et peuvent être un fort symbole de la relation que l'humanité entretien avec l'inconnu, mais ils peuvent aussi nous faire apprendre sur nous-mêmes, et comment on peut apporté des changements positifs dans le monde."
 
 ![bhx_02](assets/images/bhx_img_02.jpg)
 
@@ -43,12 +43,12 @@ Public Cible :
 Pour tout le monde, mais majoritairement visé pour les personnes étant capables de penser et de faire de la réflexion (Par exemple: pas pour les bébés). Donc une certaine maturité doit être acquise. 
 
 Aspects Techniques :
-Donc certaines techniques utilisées dans l’œuvre peuvent inclure un projecteur (pour le visuel), l’utilisation de la spécialisation auditive (sons du cosmos), et d’une technologie permettant de détecter les personnes et de pouvoir illuminer les lumières les plus proches (technologie qui ressemblent à celle de la Kinect).
+Certaines techniques utilisées dans l’œuvre peuvent inclure un projecteur (pour le visuel), l’utilisation de la spécialisation auditive (sons du cosmos), et d’une technologie permettant de détecter les personnes et de pouvoir illuminer les lumières les plus proches (technologie qui ressemblent à celle de la Kinect, de la programmation, détection à temps réel).
 
 ![bhx_03](assets/images/blackHoleX_image-01.jpg)
 
 Processus de création: 
-Il n'y a pas tant d'information, cependant nous savons un peu les roles, Kelly Nunes étant l'artiste et le créateur du concept à été assisté de Dax Silva pour crée l'oeuvre (au niveau de la finance, etc.) Ensuite, il y possiblement eu différentes étapes, comme la création du visuel, de la trame sonore, la production du corridor, la programmation des lumières etc. Toutes des différentes étapes essentiel mais peu documenter, possiblement à cause d'une raison de confidentialité, etc.
+Il n'y a pas tant d'information. Cependant nous savons un peu les rôles, Kelly Nunes étant l'artiste et le créateur du concept à été assisté de Dax Silva pour crée l'oeuvre (au niveau de la finance, etc.) Ensuite, il y possiblement eu différentes étapes, comme la création du visuel, de la trame sonore, la production du corridor, la programmation des lumières etc. Toutes des différentes étapes essentiel mais peu documenter, possiblement à cause d'une raison de confidentialité, etc.
 
 
 
