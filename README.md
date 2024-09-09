@@ -39,10 +39,10 @@ Le "Black Hole Experience" ou "BHX" est une experience qui interconnecte les uti
 
 ![bhx_02](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/bhx_img_02.jpg)
 
-Public Cible
+Public Cible :
 Pour tout le monde, mais majoritairement visé pour les personnes étant capables de penser et de faire de la réflexion (Par exemple: pas pour les bébés). Donc une certaine maturité doit être acquise. 
 
-Aspects Techniques:
+Aspects Techniques :
 Donc certaines techniques utilisées dans l’œuvre peuvent inclure un projecteur (pour le visuel), l’utilisation de la spécialisation auditive (sons du cosmos), et d’une technologie permettant de détecter les personnes et de pouvoir illuminer les lumières les plus proches (technologie qui ressemblent à celle de la Kinect).
 
 ![bhx_03](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/blackHoleX_image-01.jpg)
@@ -50,15 +50,15 @@ Donc certaines techniques utilisées dans l’œuvre peuvent inclure un projecte
 
 
 ## Comment ?
-Composante Centrale:
+Composante Centrale :
 La composante Centrale serait en effet la chambre et tout ce qui est inclut , car c’est la ou la vraie expérience ce passe. En effet, le mélange d’une pièce isolée, d’un visuel, d’une trame sonore et d’un trou dans le mur qui caractérise le trou noir est vraiment ce qui rend cette expérience le « BHX ».
 
 ![bhx_04](https://github.com/Jxshvfx/joshua_presentation-01/blob/main/assets/images/bhx_03.jpg)
 
-Fonctionnement:
+Fonctionnement :
 C’est l’endroit et les outils qui mènent à pouvoir penser et s’immerger dans l’univers du « BHX ». Et le manquement d’un seul élément pourrait brisé cette expérience, et ne pas délivrer le message voulant être transmis. Chaque élément jouent un role,
 
-Impact: 
+Impact : 
 C’est ces composantes qui permet de transmettre le message, et c’est celui-ci qui laisse un impact sur le spectateur. Et cette harmonie de média, le visuel (créateur d’univers), l’audio (l’élément qui immerse) et finalement cette isolation avec le trou noir qui se trouve devant nous, toutes ces composantes différentes et ensemble permettent la transmission du message de réflexion et de positivité.
 
 ## Appréciation
